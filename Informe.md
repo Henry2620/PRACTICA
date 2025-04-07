@@ -70,6 +70,8 @@ Generar correctamente un proyecto Angular desde cero usando la terminal.
 
 ## 🔊 Audio Explicativo del Proyecto
 
+https://drive.google.com/file/d/1Lp_bQ0puqlc2eQAsO8kKR8RIN71kTnwp/view?usp=sharing
+
 ## 10. Bibliografía
 
 - Angular Developers. (s.f.). Angular Documentation. Recuperado de https://angular.io/docs
